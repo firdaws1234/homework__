@@ -30,12 +30,32 @@ Undefined|Many  more
 Null|
 sumbol|
 Bigint|
-
-# Operation in Java script
-Name| Operation 
-:----|---------|
-Arifmatics|+,-,*,/
-Comparation|== , ====, >=,=<, 
-logical| &&,||,!z  
-"# homework_" 
-"# homework_" 
+![](./img/photo.png)
+#JavaScript Arithmetic Operators
+![](./img/jsarithimage029.jpg)
+#LOGICAL OPERATORS
+![](./img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
+#Comparison operators
+![](./img/JavaScript-Comparison-Operators.png)
+#Table of contents statement
+* Condition
+* Loops
+* Fuction
+#Condiion
+* ## if/esle
+* ## Terary operation
+* ## Svich
+#Loop
+* for
+* Wile
+* do/while
+#Fuction
+* Declaretion
+*   Immediately Invoked Function Expression
+* Expression
+##Declaretion 
+![](./img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+## Immediately Invoked Function Expression
+![](./img/%D0%A1%D0%BD%D0%B82%D0%BC%D0%BE%D0%BA.PNG)
+##  Expression
+![](./img/%D0%A1%D0%BD%D0%B82%D0%BC%D0%BE%D0%BA.PNG)"# homework__" 
